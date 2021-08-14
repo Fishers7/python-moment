@@ -1,2 +1,2 @@
 # python-moment
-type your name and age type beat
+All the stuff I have done while learning Python
