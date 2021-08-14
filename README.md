@@ -1,2 +1,2 @@
 # python-moment
-type your name and ago type beat
+type your name and age type beat
